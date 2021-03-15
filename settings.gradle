@@ -1,0 +1,5 @@
+rootProject.name = "OldAppNewApp"
+include ':app'
+include ':oldapp'
+include ':newapp'
+include ':actions'
